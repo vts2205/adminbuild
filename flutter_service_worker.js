@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "611b6c0b2e4c9de4c4eafee6832cfadd",
+  "assets/AssetManifest.json": "9402de28c23a347feed02ba10e7003a2",
 "assets/assets/icons/logo.png": "11ef6ff6b20f3dd218d901dbc6a40471",
 "assets/assets/images/bookit.png": "c110b1fc8ee4e55bf32095b33bee0f4f",
 "assets/assets/images/error.png": "34a3c86257800bf5e90595c112370b19",
+"assets/assets/images/nofilefound.jpg": "5edd86b9566b8c5525c47e4c15af22f8",
 "assets/assets/images/profile.jpg": "f9bead6a645c076fb2d75a6b9dd6689b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -23,9 +24,9 @@ const RESOURCES = {
 "icons/android-chrome-192x192.png": "628d57984dbbdbbc66e0c310da67d7aa",
 "icons/android-chrome-512x512.png": "e451de93dc6dc4386c296dbdd3629607",
 "icons/apple-touch-icon.png": "b7611e5d075a125c259e8a29b343a193",
-"index.html": "34541bb79c68475b9485362cdf38ba4e",
-"/": "34541bb79c68475b9485362cdf38ba4e",
-"main.dart.js": "83e63e7cfcc421535357e9e70327e0d2",
+"index.html": "5d451784d12b7ee0922eab252ec593ee",
+"/": "5d451784d12b7ee0922eab252ec593ee",
+"main.dart.js": "babf999ec2517286a50fdcf3afb17589",
 "manifest.json": "bca719dd2d26eca56ce0c2147b251948",
 "version.json": "75835b70c6356c5a8d400d16d8357e0e"
 };
